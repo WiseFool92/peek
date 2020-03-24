@@ -1,7 +1,9 @@
 #initially-showing {
   display: none;
 }
-
+#fade-In {
+  display:none;
+}
 .clickable {
   cursor: pointer;
   color: #0088cc;
