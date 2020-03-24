@@ -1,7 +1,10 @@
 #initially-showing {
   display: none;
 }
-#fade-In {
+#fade-in {
+  display:none;
+}
+#slide-up {
   display:none;
 }
 .clickable {
