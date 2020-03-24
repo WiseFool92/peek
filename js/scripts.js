@@ -14,7 +14,7 @@ $(document).ready(function() {
 
 $(document).ready(function() {
   $(".clickable2").click(function() {
-    $("slide-up").slideUp();
-    $("slide-down").slideDown();
+    $("#slide-up").slideUp();
+    $("#slide-down").slideDown();
   });
 });
